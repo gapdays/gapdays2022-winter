@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'GAP Days Winter 2022'
+tagline:          'The GAP Package Distribution'
+description:      'February or March 2022'
+location:         'Virtual/Remote/Home Offices'
+url:              https://www.gapdays.de
+baseurl:          /gapdays2022-winter
+email:            gapdays2022-winter@gapdays.de
+
+exclude: 
+    - "LICENSE.hyde.md"
+    - "README.hyde.md"
+    - "program.aux"
+    - "program.log"
+    - "program.out"
+    - "program.tex"
+    - "misc"
