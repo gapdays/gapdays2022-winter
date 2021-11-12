@@ -2,10 +2,9 @@
 layout: page
 title: Participants
 participants:
-  - name: Max Horn
-    affiliation: TU Kaiserslautern, Germany
-    #links:
-    #  "GitHub: fingolfin": https://github.com/fingolfin
+  - {name: Max Horn, affiliation: TU Kaiserslautern, Germany}
+  - {name: Wilf Wilson, affiliation: University of St Andrews, Scotland}
+  - {name: Ruth Hoffmann, affiliation: University of St Andrews, Scotland}
 
 ---
 
