@@ -25,7 +25,9 @@ Please visit [gapdays.de](https://www.gapdays.de) for a list of all GAP Days.
 
 ## {{ site.title }}
 
-These GAP Days will focus on the GAP package distribution.
+These GAP Days will focus again on infrastructure and in particular the GAP package distribution.
+
+More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
 <!--
 automation (introduction to GitHub Actions, setting up continuous integration tests and code coverage reporting, etc.) and an overhaul of the GAP release process (hopefully culminating in a new GAP release).
@@ -42,18 +44,11 @@ For anyone who wants to attend but feels out of depth in this, we will be lookin
 
 * [Max Horn](https://www.quendi.de/en/math)
 
-Please note that these GAP Days are the second virtual GAP Days and while we have some experience, please expect some things to go wrong.
 
-<!--
+## Registration
 
-More detailed information can be found on [the program page]({{ site.baseurl }}/program).
-
-
-## Registering and visiting
-
-{{site.title}} will take place at the {{ site.location }}. Information
-about the exact location can be found on [the location
-page]({{ site.baseurl }}/location). -->
+While everything will take place in virtual reality only, we still require registration so that
+we can plan the virtual tools and sessions better. So, [please register]({{ site.baseurl }}/registration).
 
 ## <a name="contact"></a> Contact
 
