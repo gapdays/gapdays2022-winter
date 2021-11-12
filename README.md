@@ -36,7 +36,7 @@ steps:
       - Also update the "email" field at the top
       - edit the available arrival/departure date options in the form
       - edit the rest of the page suitably
-    - _data/participants.yml
+    - participants.md
       - This contains the list of participants, in [YAML](https://en.wikipedia.org/wiki/YAML)
         format. Basic entries look like this:
 

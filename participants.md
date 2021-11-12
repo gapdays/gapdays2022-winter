@@ -1,9 +1,15 @@
 ---
 layout: page
 title: Participants
+participants:
+  - name: Max Horn
+    affiliation: TU Kaiserslautern, Germany
+    #links:
+    #  "GitHub: fingolfin": https://github.com/fingolfin
+
 ---
 
-<ol>{% assign participants = site.data.participants | sort: "name" %}
+<ol>{% assign participants = page.participants | sort: "name" %}
 {% for p in participants %}
   <li>
     <strong>{{ p.name }}</strong>
