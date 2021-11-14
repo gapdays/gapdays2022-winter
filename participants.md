@@ -5,6 +5,9 @@ participants:
   - {name: Max Horn, affiliation: TU Kaiserslautern, Germany}
   - {name: Wilf Wilson, affiliation: University of St Andrews, Scotland}
   - {name: Ruth Hoffmann, affiliation: University of St Andrews, Scotland}
+  - {name: Russ Woodroofe, affiliation: University of Primorska, Slovenia}
+  - {name: Alexander Konovalov, affiliation: University of St Andrews, Scotland}
+  - {name: Anna Sucker, affiliation: RWTH Aachen, Germany}
 
 ---
 
