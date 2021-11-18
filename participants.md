@@ -10,6 +10,7 @@ participants:
   - {name: Anna Sucker, affiliation: RWTH Aachen, Germany}
   - {name: Lucas Wollenhaupt, affiliation: RWTH Aachen, Germany}
   - {name: Daniel Rademacher, affiliation: RWTH Aachen, Germany}
+  - {name: Bettina Eick, affiliation: TU Braunschweig, Germany}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
