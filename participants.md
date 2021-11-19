@@ -11,6 +11,9 @@ participants:
   - {name: Lucas Wollenhaupt, affiliation: RWTH Aachen, Germany}
   - {name: Daniel Rademacher, affiliation: RWTH Aachen, Germany}
   - {name: Bettina Eick, affiliation: TU Braunschweig, Germany}
+  - {name: Ibrahim Alotaibi, affiliation: University of Sydney, Australia}
+  - {name: W. Edwin Clark, affiliation: University of South Florida, USA}
+  - {name: Frank Lübeck, affiliation: RWTH Aachen, Germany}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
