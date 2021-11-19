@@ -19,6 +19,7 @@ If you do not have access to this slack please [email us](mailto:{{site.email}})
  -->
 
 - consider reading up on some things:
-    - [Max's notes on GAP infrastructure](https://hackmd.io/EUtMx_2mRTaIYYlWSaVI6A)
+    - [Max's notes on the GAP package distribution](https://hackmd.io/EFifigvAQ32fYXd6XgbnQg)
+    - [Max's notes on GAP infrastructure overall](https://hackmd.io/EUtMx_2mRTaIYYlWSaVI6A)
     - [Current code for the package distribution](https://github.com/gap-system/gap-distribution/tree/master/DistributionUpdate/PackageUpdate)
     - [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions)
