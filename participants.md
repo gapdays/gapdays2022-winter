@@ -14,6 +14,11 @@ participants:
   - {name: Ibrahim Alotaibi, affiliation: University of Sydney, Australia}
   - {name: W. Edwin Clark, affiliation: University of South Florida, USA}
   - {name: Frank Lübeck, affiliation: RWTH Aachen, Germany}
+  - {name: Alexander Cant, affiliation: TU Braunschweig, Germany}
+  - {name: Nusa Zidaric, affiliation: Leiden University, Netherlands}
+  - {name: Maryna Raievska, affiliation: Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine}
+  - {name: Iryna Raievska, affiliation: Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine}
+  - {name: Sergio Siccha, affiliation: TU Kaiserslautern, Germany}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
