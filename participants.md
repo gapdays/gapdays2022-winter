@@ -19,6 +19,7 @@ participants:
   - {name: Maryna Raievska, affiliation: Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine}
   - {name: Iryna Raievska, affiliation: Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine}
   - {name: Sergio Siccha, affiliation: TU Kaiserslautern, Germany}
+  - {name: Thomas Breuer, affiliation: RWTH Aachen, Germany}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
