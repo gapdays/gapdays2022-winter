@@ -22,6 +22,7 @@ participants:
   - {name: Thomas Breuer, affiliation: RWTH Aachen, Germany}
   - {name: Tom Görtzen, affiliation: RWTH Aachen, Germany}
   - {name: Friedrich Rober, affiliation: RWTH Aachen, Germany}
+  - {name: Luke Elliott, affiliation: University of St Andrews, Scotland}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
