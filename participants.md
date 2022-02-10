@@ -25,6 +25,7 @@ participants:
   - {name: Luke Elliott, affiliation: University of St Andrews, Scotland}
   - {name: James Mitchell, affiliation: University of St Andrews, Scotland}
   - {name: Zach Newbery, affiliation: University of St Andrews, Scotland}
+  - {name: Michael Young, affiliation: University of St Andrews, Scotland}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
