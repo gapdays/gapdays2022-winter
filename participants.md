@@ -24,6 +24,7 @@ participants:
   - {name: Friedrich Rober, affiliation: RWTH Aachen, Germany}
   - {name: Luke Elliott, affiliation: University of St Andrews, Scotland}
   - {name: James Mitchell, affiliation: University of St Andrews, Scotland}
+  - {name: Zach Newbery, affiliation: University of St Andrews, Scotland}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
