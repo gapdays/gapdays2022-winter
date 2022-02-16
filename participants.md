@@ -26,6 +26,7 @@ participants:
   - {name: James Mitchell, affiliation: University of St Andrews, Scotland}
   - {name: Zach Newbery, affiliation: University of St Andrews, Scotland}
   - {name: Michael Young, affiliation: University of St Andrews, Scotland}
+  - {name: Reymond Akpanya, affiliation: RWTH Aachen, Germany}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
