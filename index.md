@@ -25,9 +25,11 @@ Please visit [gapdays.de](https://www.gapdays.de) for a list of all GAP Days.
 
 ## {{ site.title }}
 
-These GAP Days will focus again on infrastructure and in particular the GAP package distribution.
+The focus of these GAP Days will be on the GAP Package distribution
+and its infrastructure.
+Please visit the [topics page]({{ site.baseurl }}/topics) for details.
 
-More detailed information can be found on [the program page]({{ site.baseurl }}/program).
+The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
 <!--
 automation (introduction to GitHub Actions, setting up continuous integration tests and code coverage reporting, etc.) and an overhaul of the GAP release process (hopefully culminating in a new GAP release).
