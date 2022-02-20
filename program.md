@@ -51,6 +51,17 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
 - **Tuesday, 22nd February 2022**
   - 09:00: Planning the day
   - 09:30-10:00: Zach Newbery: *"Working Remote or Remotely Working: GAP containerization solutions with Docker"*
+    <details>
+    <summary style="color: green;">(click for details)</summary>
+    <blockquote><small>
+    This talk aims to provide a brief overview of what containerization
+    is, and the types of advantages one can gain from using it. We'll
+    discuss how to use GAP's Docker images, create/upload your own
+    images, and collaborate on programs through Docker containers on
+    Deepnote.
+    </small>
+    </blockquote>
+    </details>
   - ...
   - 16:00: End of Day standup
 - **Wednesday, 23rd February 2022**
