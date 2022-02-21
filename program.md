@@ -46,7 +46,7 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
   - 11:30: Discussions, planning, initial work
   - 12:30: lunch break
   - 14:00: More discussions, planning, work
-  - 16:00: End of Day standup
+  - <s>16:00: End of Day standup</s> skipping this today
 
 - **Tuesday, 22nd February 2022**
   - 09:00: Planning the day
