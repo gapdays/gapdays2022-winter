@@ -35,7 +35,7 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
     </small>
     </blockquote>
     </details>
-  - 10:30-11:20: Wilf Wilson: *"Testing the package distribution"*
+  - 10:30-11:20: Wilf Wilson: *"Testing the package distribution"* [(slides)]({{ site.baseurl }}/slides/wilf-wilson-automated-tests.pdf)
     <details>
     <summary style="color: green;">(click for details)</summary>
     <blockquote><small>
