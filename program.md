@@ -22,9 +22,9 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
 
 
 - **Monday, 21st February 2022**
-  - 09:00: **Opening of GAPDays**: Welcome, overview of what's coming
+  - 09:00: **Opening of GAPDays**: Welcome, overview of what's coming [(slides)]({{ site.baseurl }}/slides/welcome-gapdays-winter-2022.pdf)
   - 09:10: Introduction round
-  - 09:30-10:20: Max Horn: *"The GAP package distribution"*
+  - 09:30-10:20: Max Horn: *"The GAP package distribution"* [(slides)]({{ site.baseurl }}/slides/the-gap-package-distribution.pdf)
     <details>
     <summary style="color: green;">(click for details)</summary>
     <blockquote><small>
