@@ -63,6 +63,8 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
     </blockquote>
     </details>
   - ...
+  - 12:00: lunch break
+  - 13:30: Discussion on package manuals (cross reference issues, how to build them etc.)
   - 16:00: End of Day standup
 - **Wednesday, 23rd February 2022**
   - 09:00: Planning the day
