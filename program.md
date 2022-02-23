@@ -32,16 +32,14 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
     how it works, and how new packages are added to it. For this, the viewpoints
     of users, package authors and maintainers of the package distribution
     will be considered.
-    </small>
-    </blockquote>
+    </small></blockquote>
     </details>
   - 10:30-11:20: Wilf Wilson: *"Testing the package distribution"* [(slides)]({{ site.baseurl }}/slides/wilf-wilson-automated-tests.pdf)
     <details>
     <summary style="color: green;">(click for details)</summary>
     <blockquote><small>
     This talk will discuss how the package CI tests at https://github.com/gap-infra (resp. at our Jenkins) used to work / should work again.
-    </small>
-    </blockquote>
+    </small></blockquote>
     </details>
   - 11:30: Discussions, planning, initial work
   - 12:30: lunch break
@@ -59,8 +57,7 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
     discuss how to use GAP's Docker images, create/upload your own
     images, and collaborate on programs through Docker containers on
     Deepnote.
-    </small>
-    </blockquote>
+    </small></blockquote>
     </details>
   - ...
   - 12:00: lunch break
@@ -74,6 +71,21 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
 - **Thursday, 24th February 2022**
   - 09:00: Planning the day
   - 09:30-10:00: Michael Young: *"The GAP PackageManager"*
+    <details>
+    <summary style="color: green;">(click for details)</summary>
+    <blockquote><small>
+    Packages are an important part of the GAP ecosystem, but the process of
+    installing and updating packages has long been manual and laborious, with
+    significant technical knowledge required.  This has the potential to put
+    off newcomers, and makes it harder to share our code.  Since 2018, a
+    package management system has been in development, in the form of a GAP
+    package called PackageManager.  This reached some level of maturity with a
+    1.0 release in 2020, and is used regularly by at least some people, but it
+    still lacks many features that might be desirable.  In this talk, we will
+    consider what PackageManager does, what it doesn't do, and what its future
+    should look like.
+    </small></blockquote>
+    </details>
   - ...
   - 16:00: End of Day standup
 - **Friday, 25th February 2022**
