@@ -11,21 +11,21 @@ participants:
   - {name: Lucas Wollenhaupt, affiliation: "RWTH Aachen, Germany"}
   - {name: Daniel Rademacher, affiliation: "RWTH Aachen, Germany"}
   - {name: Bettina Eick, affiliation: "TU Braunschweig, Germany"}
-  - {name: Ibrahim Alotaibi, affiliation: "University of Sydney, Australia"}
-  - {name: W. Edwin Clark, affiliation: "University of South Florida, USA"}
+  #- {name: Ibrahim Alotaibi, affiliation: "University of Sydney, Australia"}
+  #- {name: W. Edwin Clark, affiliation: "University of South Florida, USA"}
   - {name: Frank Lübeck, affiliation: "RWTH Aachen, Germany"}
-  - {name: Alexander Cant, affiliation: "TU Braunschweig, Germany"}
+  #- {name: Alexander Cant, affiliation: "TU Braunschweig, Germany"}
   - {name: Nusa Zidaric, affiliation: "Leiden University, Netherlands"}
   - {name: Maryna Raievska, affiliation: "Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine"}
   - {name: Iryna Raievska, affiliation: "Institute of Mathematics of NAS of Ukraine, Kyiv, Ukraine"}
   - {name: Thomas Breuer, affiliation: "RWTH Aachen, Germany"}
   - {name: Tom Görtzen, affiliation: "RWTH Aachen, Germany"}
   - {name: Friedrich Rober, affiliation: "RWTH Aachen, Germany"}
-  - {name: Luke Elliott, affiliation: "University of St Andrews, Scotland"}
+  #- {name: Luke Elliott, affiliation: "University of St Andrews, Scotland"}
   - {name: James Mitchell, affiliation: "University of St Andrews, Scotland"}
-  - {name: Zach Newbery, affiliation: "University of St Andrews, Scotland"}
+  #- {name: Zach Newbery, affiliation: "University of St Andrews, Scotland"}
   - {name: Michael Young, affiliation: "University of St Andrews, Scotland"}
-  - {name: Reymond Akpanya, affiliation: "RWTH Aachen, Germany"}
+  #- {name: Reymond Akpanya, affiliation: "RWTH Aachen, Germany"}
   - {name: Fatemeh Moftakhar, affiliation: "Comenius University, Slovakia"}
 ---
 
