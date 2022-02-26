@@ -24,7 +24,8 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
 - **Monday, 21st February 2022**
   - 09:00: **Opening of GAPDays**: Welcome, overview of what's coming [(slides)]({{ site.baseurl }}/slides/welcome-gapdays-winter-2022.pdf)
   - 09:10: Introduction round
-  - 09:30-10:20: Max Horn: *"The GAP package distribution"* [(slides)]({{ site.baseurl }}/slides/the-gap-package-distribution.pdf)
+  - 09:30-10:20: Max Horn: *"The GAP package distribution"*
+    [(slides)]({{ site.baseurl }}/slides/the-gap-package-distribution.pdf)
     <details>
     <summary style="color: green;">(click for details)</summary>
     <blockquote><small>
@@ -34,7 +35,8 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
     will be considered.
     </small></blockquote>
     </details>
-  - 10:30-11:20: Wilf Wilson: *"Testing the package distribution"* [(slides)]({{ site.baseurl }}/slides/wilf-wilson-automated-tests.pdf)
+  - 10:30-11:20: Wilf Wilson: *"Testing the package distribution"*
+    [(slides)]({{ site.baseurl }}/slides/wilf-wilson-automated-tests.pdf)
     <details>
     <summary style="color: green;">(click for details)</summary>
     <blockquote><small>
@@ -49,6 +51,7 @@ Feel free to [suggest edits for this page](https://github.com/gapdays/gapdays202
 - **Tuesday, 22nd February 2022**
   - 09:00: Planning the day
   - 09:30-10:00: Zach Newbery: *"Working Remote or Remotely Working: GAP containerization solutions with Docker"*
+    [(slides)]({{ site.baseurl }}/slides/GAP-Days-Docker-Talk.pdf)
     <details>
     <summary style="color: green;">(click for details)</summary>
     <blockquote><small>
